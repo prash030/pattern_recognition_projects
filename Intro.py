@@ -1,4 +1,6 @@
-# Assignment -1 CSCI-737 Pattern recognition
+# intro.py (c) Prasanth Ganesan
+# Author: Prash Ganesan <prasganesan.pg@gmail.com>
+# Simple pattern recognition algorithms
 
 # This section contains a python program to perform classification of two classes using least squares method
 from pylab import *
