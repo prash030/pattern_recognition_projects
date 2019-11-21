@@ -1,6 +1,7 @@
-# intro.py (c) Prasanth Ganesan
+# lsq_knn.py (c) Prasanth Ganesan
 # Author: Prash Ganesan <prasganesan.pg@gmail.com>
-# Simple pattern recognition algorithms
+# Simple pattern recognition algorithms - Least squares and KNN design and evaluation
+# data.npy should be the name of your input file. It should have three columns - (1) x-coord (2) y-coord (3) class label
 
 # This section contains a python program to perform classification of two classes using least squares method
 from pylab import *
