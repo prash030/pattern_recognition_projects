@@ -1,3 +1,5 @@
+# bayes_map.py (c) Prasanth "Prash" Ganesan
+# Author: Prash Ganesan <prasganesan.pg@gmail.com>
 # Program to classify the classes in data using Bayes classifier
 
 from pylab import *
