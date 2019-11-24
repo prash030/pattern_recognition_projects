@@ -1,5 +1,8 @@
-# lsq_knn.py (c) Prasanth "Prash" Ganesan
-# Author: Prash Ganesan <prasganesan.pg@gmail.com>
+# lsq_knn.py
+
+# Copyright (c) Prasanth "Prash" Ganesan
+# Author email: <prasganesan.pg@gmail.com>
+
 # Simple pattern recognition algorithms - Least squares and KNN design and evaluation
 # data.npy should be the name of your input file. It should have three columns - (1) x-coord (2) y-coord (3) class label
 
